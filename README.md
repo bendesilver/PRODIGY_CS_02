@@ -19,12 +19,13 @@ A Python-based image encryption tool that uses XOR pixel manipulation for basic 
 - image_encryption_tool.py encrypted.png decrypted.png --key "mysecretkey"
 
 
-Technologies Used
-Python 3.x
+## Technologies Used
 
-Pillow (PIL Fork) library
+- Python 3.x
 
-XOR cipher algorithm
+- Pillow (PIL Fork) library
+
+- XOR cipher algorithm
 
 
 ## Installation
