@@ -31,7 +31,6 @@ XOR cipher algorithm
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/bendesilver/PRODIGY_CS_02.git
-cd image_encryption_tool
+git clone https://github.com/bendesilver/PRODIGY_CS_02
 
 
