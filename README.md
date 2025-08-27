@@ -18,14 +18,14 @@ cd image_encryption_tool
 
   USAGE
 
- *Encrypt an image*
+ Encrypt an image
 python src/image_encrytpion.py input.jpg encrypted.png --key "mysecretkey"
 
- *Decrypt an image*
+ Decrypt an image
 python src/image_encryption_tool.py encrypted.png decrypted.png --key "mysecretkey"
 
 
-*Technologies Used*
+Technologies Used
 Python 3.x
 
 Pillow (PIL Fork) library
