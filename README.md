@@ -9,7 +9,7 @@ A Python-based image encryption tool that uses XOR pixel manipulation for basic 
 - Virtual environment setup scripts
 - Cross-platform compatibility
 
-## USAGE
+## Usage
 
  Encrypt an image
  
