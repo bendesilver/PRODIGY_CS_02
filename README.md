@@ -31,5 +31,3 @@ Python 3.x
 Pillow (PIL Fork) library
 
 XOR cipher algorithm
-
-Developed By Benjamin Akwasi Pagyakotwere Boadu
