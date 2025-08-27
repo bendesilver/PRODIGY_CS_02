@@ -15,3 +15,19 @@ A Python-based image encryption tool that uses XOR pixel manipulation for basic 
 ```bash
 git clone https://github.com/bendesilver/PRODIGY_CS_02.git
 cd image_encryption_tool
+
+##USAGE
+
+# Encrypt an image
+python src/image_encrytpion.py input.jpg encrypted.png --key "mysecretkey"
+
+# Decrypt an image
+python src/image_encryption_tool.py encrypted.png decrypted.png --key "mysecretkey"
+
+
+Technologies Used
+Python 3.x
+
+Pillow (PIL Fork) library
+
+XOR cipher algorithm
