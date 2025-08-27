@@ -1,4 +1,17 @@
-Usage: 
-1. Install dependencies: pip install pillow
-2. Encrypt an image: python image_encryption_tool.py input.png encrypted.png --key "mysecretkey"
-3. Decrypt the image(Using the same key): python image_encryption_tool.py encrypted.png decrypted.png --key "mysecretkey" 
+# Image Encryption Tool
+
+A Python-based image encryption tool that uses XOR pixel manipulation for basic image encryption/decryption.
+
+## Features
+- XOR-based pixel encryption
+- Support for RGB, RGBA, and grayscale images
+- Command-line interface
+- Virtual environment setup scripts
+- Cross-platform compatibility
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/bendesilver/PRODIGY_CS_02.git
+cd image_encryption_tool
