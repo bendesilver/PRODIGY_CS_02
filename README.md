@@ -13,10 +13,10 @@ A Python-based image encryption tool that uses XOR pixel manipulation for basic 
 
  Encrypt an image
  
--image_encrytpion.py input.jpg encrypted.png --key "mysecretkey"
+- image_encrytpion.py input.jpg encrypted.png --key "mysecretkey"
 
  Decrypt an image
--image_encryption_tool.py encrypted.png decrypted.png --key "mysecretkey"
+- image_encryption_tool.py encrypted.png decrypted.png --key "mysecretkey"
 
 
 Technologies Used
